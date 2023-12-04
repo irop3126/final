@@ -1,8 +1,5 @@
-컴파일
-cl mycp.c
 
-코드
-
+1.
 ```
 #include <stdio.h>
 int main(int argc, char *argv[]) {
@@ -18,3 +15,8 @@ int main(int argc, char *argv[]) {
     return 0;
 }
 ```
+
+2.
+cl mycp.c
+
+점수:30점
